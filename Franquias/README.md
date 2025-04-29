@@ -1,5 +1,3 @@
-# Título
+# Previsão de Custo Inicial para Franquias
 
-README "Jornada de Dados"
-
-![Link da Imagem](image.png)
+Projeto desenvolvido de acordo com o curso de Streamlit da Escola de Inteligência Artificial (EIA)
